@@ -1,0 +1,598 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sony\.gradle\caches\transforms-3\2cf16e218fbfff8ca72cbdbbf588ab19\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sony\.gradle\caches\transforms-3\0f56612800bf3de41c303e8d222f570e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\sony\.gradle\caches\transforms-3\786df6483f1d9f840f00990b3f77d84e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\sony\.gradle\caches\transforms-3\5d812381ee0aeda605ae72747e58e633\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\1350485445620446c8860573ec9a1571\transformed\sdp-android-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\sony\.gradle\caches\transforms-3\bd1216c67f8ab7c866f18e41f1325ca6\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\eb25951379a795bcaa3a621ccc4e64f4\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\5095fd20f909df63fa8b1d978f43d53a\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\sony\.gradle\caches\transforms-3\a4fa662f66c6e67ab6116ee016c73a75\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\sony\.gradle\caches\transforms-3\38ed3bcb7157bd463604d129a47480c8\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\59597b677a1c2268bb47481ba0788f3a\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\sony\.gradle\caches\transforms-3\05f38eaf491969fb0187218d2c53c42e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\sony\.gradle\caches\transforms-3\df8da9f3f440b212f74410fce6b85f16\transformed\recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\fbe81de43c552922b7041a95b4922e64\transformed\integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\92d677719f3697f28d00c62647ea1a55\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\c01563a136b7375f09dfc1f8c6406da5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\74584e648e9b495146a940f603a00eb4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\499e5597315ecc8a3092e2f27cda07a4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\d213540d742eaadfe291e9ced7b9b04d\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\045addcd24b7d4ba053c8781bf542c82\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\ebfa05a236de053241a1668ba7c71620\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\sony\.gradle\caches\transforms-3\b0c2c008322d025888c08f9d53d7dc7a\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\3a07f45aa45a1ed0ea70462aefc0dff0\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\ab0eddf751ba9ddf4f5405baa3e70475\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\b8e871aff80f3d43fa7771acf2c12609\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\1587e57fa82cffcf56843e6a73718cd6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\d418ed3861000181a3bc57dbdbbf39db\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\78ebbb8bbcf00abe90f944d5486f5732\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\sony\.gradle\caches\transforms-3\d5314209086356b9e22ef126aa4cfd4d\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\5df42ce75bf95e6641968c69f7716bdc\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\f36eef16cda454f330c831151078433d\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\b1d1ece899c91c62e176d6dabc0bb507\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\a40242ce1cdd0b6e5b777ecfcb894e91\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\eaac78b6f1eb83489b57d2e02d36418f\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\291494270ca464444c97068b9d64c0b4\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\sony\.gradle\caches\transforms-3\d7a8ac7de8e5b485876b774e1b8f80fd\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sony\.gradle\caches\transforms-3\42d2b155346fbd24df4453111b2307bc\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\sony\.gradle\caches\transforms-3\0c4d0736ef41f8c01e41d446787c8a1b\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\4168c51d38d9c99dac1c2cabcd0afa6d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\676d740c1e6cb794ee414d71282fe2bc\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\sony\.gradle\caches\transforms-3\83499fa5ed966cb1c5dc2cd8c10129ce\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\6d4a605173a100ef93a79bc45222ad65\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\07fe55fd0969d46d26cbcd1415f313d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\eb0795a22ca340a6a3a330d9009daa9c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\1f5d3726395093a6d2371269b619bd5f\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\70c7724354a76ae3746278da1ad50df7\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\sony\.gradle\caches\transforms-3\2582fb1333d74ee55febfec1d47b5c29\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\eab837fcddb85eca62c8c5c61fa03d65\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\fbc6f3b9f7e4e5605d08b01e359dfa41\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\5a8e36d0e22e21c91a4e15c6ea711ced\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\sony\.gradle\caches\transforms-3\04c89102915d8b3b55226f452191f67f\transformed\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:5:5-42:19
+INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml:5:5-42:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sony\.gradle\caches\transforms-3\2cf16e218fbfff8ca72cbdbbf588ab19\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sony\.gradle\caches\transforms-3\2cf16e218fbfff8ca72cbdbbf588ab19\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sony\.gradle\caches\transforms-3\0f56612800bf3de41c303e8d222f570e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sony\.gradle\caches\transforms-3\0f56612800bf3de41c303e8d222f570e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\sony\.gradle\caches\transforms-3\bd1216c67f8ab7c866f18e41f1325ca6\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\sony\.gradle\caches\transforms-3\bd1216c67f8ab7c866f18e41f1325ca6\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\5095fd20f909df63fa8b1d978f43d53a\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\5095fd20f909df63fa8b1d978f43d53a\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\59597b677a1c2268bb47481ba0788f3a\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\59597b677a1c2268bb47481ba0788f3a\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\sony\.gradle\caches\transforms-3\05f38eaf491969fb0187218d2c53c42e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\sony\.gradle\caches\transforms-3\05f38eaf491969fb0187218d2c53c42e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\fbe81de43c552922b7041a95b4922e64\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\fbe81de43c552922b7041a95b4922e64\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\291494270ca464444c97068b9d64c0b4\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\291494270ca464444c97068b9d64c0b4\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\sony\.gradle\caches\transforms-3\d7a8ac7de8e5b485876b774e1b8f80fd\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\sony\.gradle\caches\transforms-3\d7a8ac7de8e5b485876b774e1b8f80fd\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\07fe55fd0969d46d26cbcd1415f313d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\07fe55fd0969d46d26cbcd1415f313d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\eb0795a22ca340a6a3a330d9009daa9c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\eb0795a22ca340a6a3a330d9009daa9c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:10:9-34
+	android:fullBackupContent
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:13:9-47
+	android:dataExtractionRules
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.app.chatvista.chatWin
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:16:13-36
+activity#com.app.chatvista.setting
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:19:13-36
+activity#com.app.chatvista.chatwindo
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:22:13-38
+activity#com.app.chatvista.registration
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:25:13-41
+activity#com.app.chatvista.login
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:28:13-34
+activity#com.app.chatvista.splash
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:exported
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:31:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.app.chatvista.MainActivity
+ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:39:9-41:40
+	android:exported
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from D:\Chat Application\app\src\main\AndroidManifest.xml:40:13-41
+uses-sdk
+INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml
+INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sony\.gradle\caches\transforms-3\2cf16e218fbfff8ca72cbdbbf588ab19\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\sony\.gradle\caches\transforms-3\2cf16e218fbfff8ca72cbdbbf588ab19\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sony\.gradle\caches\transforms-3\0f56612800bf3de41c303e8d222f570e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\sony\.gradle\caches\transforms-3\0f56612800bf3de41c303e8d222f570e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\sony\.gradle\caches\transforms-3\786df6483f1d9f840f00990b3f77d84e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\sony\.gradle\caches\transforms-3\786df6483f1d9f840f00990b3f77d84e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\sony\.gradle\caches\transforms-3\5d812381ee0aeda605ae72747e58e633\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\sony\.gradle\caches\transforms-3\5d812381ee0aeda605ae72747e58e633\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\1350485445620446c8860573ec9a1571\transformed\sdp-android-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\1350485445620446c8860573ec9a1571\transformed\sdp-android-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\sony\.gradle\caches\transforms-3\bd1216c67f8ab7c866f18e41f1325ca6\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\sony\.gradle\caches\transforms-3\bd1216c67f8ab7c866f18e41f1325ca6\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\eb25951379a795bcaa3a621ccc4e64f4\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\eb25951379a795bcaa3a621ccc4e64f4\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\5095fd20f909df63fa8b1d978f43d53a\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\5095fd20f909df63fa8b1d978f43d53a\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\sony\.gradle\caches\transforms-3\a4fa662f66c6e67ab6116ee016c73a75\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\sony\.gradle\caches\transforms-3\a4fa662f66c6e67ab6116ee016c73a75\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\sony\.gradle\caches\transforms-3\38ed3bcb7157bd463604d129a47480c8\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\sony\.gradle\caches\transforms-3\38ed3bcb7157bd463604d129a47480c8\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\59597b677a1c2268bb47481ba0788f3a\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\59597b677a1c2268bb47481ba0788f3a\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\sony\.gradle\caches\transforms-3\05f38eaf491969fb0187218d2c53c42e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\sony\.gradle\caches\transforms-3\05f38eaf491969fb0187218d2c53c42e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\sony\.gradle\caches\transforms-3\df8da9f3f440b212f74410fce6b85f16\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\sony\.gradle\caches\transforms-3\df8da9f3f440b212f74410fce6b85f16\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\fbe81de43c552922b7041a95b4922e64\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\fbe81de43c552922b7041a95b4922e64\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\92d677719f3697f28d00c62647ea1a55\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\92d677719f3697f28d00c62647ea1a55\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\c01563a136b7375f09dfc1f8c6406da5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\c01563a136b7375f09dfc1f8c6406da5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\74584e648e9b495146a940f603a00eb4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\74584e648e9b495146a940f603a00eb4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\499e5597315ecc8a3092e2f27cda07a4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\499e5597315ecc8a3092e2f27cda07a4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\d213540d742eaadfe291e9ced7b9b04d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\d213540d742eaadfe291e9ced7b9b04d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\045addcd24b7d4ba053c8781bf542c82\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\045addcd24b7d4ba053c8781bf542c82\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\ebfa05a236de053241a1668ba7c71620\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\ebfa05a236de053241a1668ba7c71620\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\sony\.gradle\caches\transforms-3\b0c2c008322d025888c08f9d53d7dc7a\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\sony\.gradle\caches\transforms-3\b0c2c008322d025888c08f9d53d7dc7a\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\3a07f45aa45a1ed0ea70462aefc0dff0\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\3a07f45aa45a1ed0ea70462aefc0dff0\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\ab0eddf751ba9ddf4f5405baa3e70475\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\ab0eddf751ba9ddf4f5405baa3e70475\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\b8e871aff80f3d43fa7771acf2c12609\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\b8e871aff80f3d43fa7771acf2c12609\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\1587e57fa82cffcf56843e6a73718cd6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\1587e57fa82cffcf56843e6a73718cd6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\d418ed3861000181a3bc57dbdbbf39db\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\d418ed3861000181a3bc57dbdbbf39db\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\78ebbb8bbcf00abe90f944d5486f5732\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\sony\.gradle\caches\transforms-3\78ebbb8bbcf00abe90f944d5486f5732\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\sony\.gradle\caches\transforms-3\d5314209086356b9e22ef126aa4cfd4d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\sony\.gradle\caches\transforms-3\d5314209086356b9e22ef126aa4cfd4d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\5df42ce75bf95e6641968c69f7716bdc\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\5df42ce75bf95e6641968c69f7716bdc\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\f36eef16cda454f330c831151078433d\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\f36eef16cda454f330c831151078433d\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\b1d1ece899c91c62e176d6dabc0bb507\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\b1d1ece899c91c62e176d6dabc0bb507\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\a40242ce1cdd0b6e5b777ecfcb894e91\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\a40242ce1cdd0b6e5b777ecfcb894e91\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\eaac78b6f1eb83489b57d2e02d36418f\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\eaac78b6f1eb83489b57d2e02d36418f\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\291494270ca464444c97068b9d64c0b4\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\291494270ca464444c97068b9d64c0b4\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\sony\.gradle\caches\transforms-3\d7a8ac7de8e5b485876b774e1b8f80fd\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\sony\.gradle\caches\transforms-3\d7a8ac7de8e5b485876b774e1b8f80fd\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sony\.gradle\caches\transforms-3\42d2b155346fbd24df4453111b2307bc\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\sony\.gradle\caches\transforms-3\42d2b155346fbd24df4453111b2307bc\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\sony\.gradle\caches\transforms-3\0c4d0736ef41f8c01e41d446787c8a1b\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\sony\.gradle\caches\transforms-3\0c4d0736ef41f8c01e41d446787c8a1b\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\4168c51d38d9c99dac1c2cabcd0afa6d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\4168c51d38d9c99dac1c2cabcd0afa6d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\676d740c1e6cb794ee414d71282fe2bc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\676d740c1e6cb794ee414d71282fe2bc\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\sony\.gradle\caches\transforms-3\83499fa5ed966cb1c5dc2cd8c10129ce\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\sony\.gradle\caches\transforms-3\83499fa5ed966cb1c5dc2cd8c10129ce\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\6d4a605173a100ef93a79bc45222ad65\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\6d4a605173a100ef93a79bc45222ad65\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\07fe55fd0969d46d26cbcd1415f313d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\07fe55fd0969d46d26cbcd1415f313d7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\eb0795a22ca340a6a3a330d9009daa9c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\eb0795a22ca340a6a3a330d9009daa9c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\1f5d3726395093a6d2371269b619bd5f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\1f5d3726395093a6d2371269b619bd5f\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\70c7724354a76ae3746278da1ad50df7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\70c7724354a76ae3746278da1ad50df7\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\sony\.gradle\caches\transforms-3\2582fb1333d74ee55febfec1d47b5c29\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\sony\.gradle\caches\transforms-3\2582fb1333d74ee55febfec1d47b5c29\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\eab837fcddb85eca62c8c5c61fa03d65\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\eab837fcddb85eca62c8c5c61fa03d65\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\fbc6f3b9f7e4e5605d08b01e359dfa41\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sony\.gradle\caches\transforms-3\fbc6f3b9f7e4e5605d08b01e359dfa41\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\5a8e36d0e22e21c91a4e15c6ea711ced\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\5a8e36d0e22e21c91a4e15c6ea711ced\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\sony\.gradle\caches\transforms-3\04c89102915d8b3b55226f452191f67f\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\sony\.gradle\caches\transforms-3\04c89102915d8b3b55226f452191f67f\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Chat Application\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\sony\.gradle\caches\transforms-3\df8da9f3f440b212f74410fce6b85f16\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\sony\.gradle\caches\transforms-3\df8da9f3f440b212f74410fce6b85f16\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\sony\.gradle\caches\transforms-3\df8da9f3f440b212f74410fce6b85f16\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\sony\.gradle\caches\transforms-3\df8da9f3f440b212f74410fce6b85f16\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:23:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:28:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:27:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.1] C:\Users\sony\.gradle\caches\transforms-3\764bc9f8c66cd1120d4c90b0fb33b17f\transformed\firebase-database-20.3.1\AndroidManifest.xml:33:17-109
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.3.1] C:\Users\sony\.gradle\caches\transforms-3\23b1c4f134dc1b0884ce75cdf12677ab\transformed\firebase-auth-22.3.1\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\sony\.gradle\caches\transforms-3\b409773ac8d7694612d88feebd5cec88\transformed\firebase-storage-20.3.0\AndroidManifest.xml:34:17-107
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\sony\.gradle\caches\transforms-3\bd1216c67f8ab7c866f18e41f1325ca6\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\sony\.gradle\caches\transforms-3\bd1216c67f8ab7c866f18e41f1325ca6\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\sony\.gradle\caches\transforms-3\bd1216c67f8ab7c866f18e41f1325ca6\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\sony\.gradle\caches\transforms-3\bd1216c67f8ab7c866f18e41f1325ca6\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.0] C:\Users\sony\.gradle\caches\transforms-3\068e55ac4f810ea1055620db5a44ed73\transformed\firebase-appcheck-17.1.0\AndroidManifest.xml:29:17-117
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\59597b677a1c2268bb47481ba0788f3a\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\59597b677a1c2268bb47481ba0788f3a\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\59597b677a1c2268bb47481ba0788f3a\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\sony\.gradle\caches\transforms-3\59597b677a1c2268bb47481ba0788f3a\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\45264a2e6a58edeb96303feda79a8aa8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\sony\.gradle\caches\transforms-3\5b907d4d0673975f9b0f2b9c24c81747\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\sony\.gradle\caches\transforms-3\df8da9f3f440b212f74410fce6b85f16\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\sony\.gradle\caches\transforms-3\df8da9f3f440b212f74410fce6b85f16\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\eb0795a22ca340a6a3a330d9009daa9c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sony\.gradle\caches\transforms-3\eb0795a22ca340a6a3a330d9009daa9c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\sony\.gradle\caches\transforms-3\7213b51edebc8ce351eee51dcd92b6dc\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.app.chatvista.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.app.chatvista.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\sony\.gradle\caches\transforms-3\5306fbb7000594cf0ef8f23da1ff6e7b\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\sony\.gradle\caches\transforms-3\e8522cba7682d2f48b4078b263f58ba3\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\sony\.gradle\caches\transforms-3\d7a8ac7de8e5b485876b774e1b8f80fd\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\sony\.gradle\caches\transforms-3\d7a8ac7de8e5b485876b774e1b8f80fd\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\sony\.gradle\caches\transforms-3\d7a8ac7de8e5b485876b774e1b8f80fd\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\sony\.gradle\caches\transforms-3\2ef3fc1746b1bce3b76815ca892db6ae\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
