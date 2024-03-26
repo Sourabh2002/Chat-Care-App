@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Chat Vista</string>
+    <string name="gcm_defaultSenderId" translatable="false">213566494669</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdM0PhyDRse_qyOTQ1GI884GThembB6y8</string>
+    <string name="google_app_id" translatable="false">1:213566494669:android:c5a8ac8662295edd529684</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdM0PhyDRse_qyOTQ1GI884GThembB6y8</string>
+    <string name="google_storage_bucket" translatable="false">chat-vista-aea19.appspot.com</string>
+    <string name="project_id" translatable="false">chat-vista-aea19</string>
+    <style name="Base.Theme.ChatVista" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+    <style name="Theme.ChatVista" parent="Base.Theme.ChatVista"/>
+    <style name="dialoge">
+        <item name="android:windowBackground">@drawable/empty_background</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowMinWidthMajor">80%</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>
